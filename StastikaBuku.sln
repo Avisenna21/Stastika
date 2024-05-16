@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StastikaBuku", "StastikaBuku.csproj", "{26166C07-918F-4D3B-9C81-7CA16207905F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StastikaBukuTests", "..\StastikaBukuTests\StastikaBukuTests.csproj", "{C88415AF-E913-48D5-90AC-95EC0F030954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26166C07-918F-4D3B-9C81-7CA16207905F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26166C07-918F-4D3B-9C81-7CA16207905F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26166C07-918F-4D3B-9C81-7CA16207905F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26166C07-918F-4D3B-9C81-7CA16207905F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88415AF-E913-48D5-90AC-95EC0F030954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88415AF-E913-48D5-90AC-95EC0F030954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88415AF-E913-48D5-90AC-95EC0F030954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88415AF-E913-48D5-90AC-95EC0F030954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EE93D06-1096-4DC6-A74B-45A75B0F2764}
+	EndGlobalSection
+EndGlobal
